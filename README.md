@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Davide
 #### I am a Front-End Developer from Italy.
 I am a Developer who also likes Design.
