@@ -3,7 +3,6 @@
 I am a Developer who also likes Design.
 I have experience in React.js / TailwindCSS / Javascript / Figma / Illustrator.
 
-I am always looking for new opportunities, if your company is looking for someone please contact me and let's talk about it.
 
 
 
@@ -13,10 +12,6 @@ Check out my website to know more about myself :)
 
 Skills: REACT / JS / GATSBY.JS / HTML / CSS / SASS / BOOTSTRAP / TAILWIND
 
-- 🔭 I’m currently working on A Portfolio Website 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on React 
-- 🤔 I’m looking for help with Python 
 - 📫 How to reach me: d.cannerozzi@gmail.com 
 
 
