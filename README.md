@@ -1,16 +1,12 @@
 ### Hi there 👋, my name is Davide
 #### I am a Front-End Developer from Italy.
-I am a Developer who also likes Design.
-I have experience in React.js / TailwindCSS / Javascript / Figma / Illustrator.
-
-
-
+Front-end developer with 2+ years of experience 
 
 Check out my website to know more about myself :)
 
 
 
-Skills: REACT / JS / GATSBY.JS / HTML / CSS / SASS / BOOTSTRAP / TAILWIND
+Skills: REACT / JAVASCRIPT / TYPESCRIPT / NEXT / HTML / CSS / TAILWIND
 
 - 📫 How to reach me: d.cannerozzi@gmail.com 
 
